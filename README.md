@@ -1,92 +1,175 @@
-<h1 align="center">Hi 👋, I'm Trần Ánh Dương</h1>
-
-<h3 align="center">
-  Web Developer focused on Backend Development
-</h3>
-
-<p align="center">
-  I enjoy building web applications, REST APIs and learning how software systems work.
-</p>
-
----
-
-## 👨‍💻 About Me
-
-- 🔭 I'm currently working on web development projects
-- 🌱 I'm learning Backend Development, System Design and Database Design
-- 💻 I work mainly with Node.js, NestJS, Laravel and TypeScript
-- 🐳 I'm also learning Docker and application deployment
-- 🎯 My goal is to become a professional Backend Developer
-
----
-
-## 🛠️ Tech Stack
-
-### Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-
-### Frontend
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-
-### Database & Tools
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-### [NestJS CRUD and JWT](https://github.com/anhduongdev/nestjs-crud-and-jwt)
-
-A backend project using NestJS, TypeScript, CRUD operations and JWT authentication.
-
-### [NestJS Prisma](https://github.com/anhduongdev/nestjs-prisma)
-
-A backend project demonstrating the integration between NestJS and Prisma ORM.
-
-### [Node.js REST API](https://github.com/anhduongdev/NodeJS_REST_API_with_Express_Mongoose_MongoDB)
-
-A REST API built with Node.js, Express, Mongoose and MongoDB.
-
-### [Laravel E-commerce Website](https://github.com/anhduongdev/shopbanhanglaravel)
-
-An e-commerce web application developed with Laravel.
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
+<div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=anhduongdev&show_icons=true&hide_border=true"
-    alt="GitHub Statistics"
+    src="https://github.com/anhduongdev.png"
+    width="155"
+    alt="Trần Ánh Dương"
   />
+</div>
+
+<div align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:172554,100:0f766e&height=230&section=header&text=Tran%20Anh%20Duong&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend-Focused%20Full-Stack%20Developer&descAlignY=58&descSize=20"
+    width="100%"
+    alt="Header"
+  />
+</div>
+
+<h2 align="center">Hi there 👋, I'm Trần Ánh Dương</h2>
+
+<p align="center">
+  <strong>Backend-Focused Full-Stack Developer from Da Nang, Vietnam</strong>
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=anhduongdev&layout=compact&hide_border=true"
-    alt="Most Used Languages"
-  />
+  I build web applications, RESTful APIs and backend systems using
+  PHP, Node.js and modern web technologies.
+</p>
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-anhduongdev-181717?style=for-the-badge&logo=github)](https://github.com/anhduongdev)
+[![Email](https://img.shields.io/badge/Email-Contact_me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:trananh123duong@gmail.com)
+
+</div>
+
+---
+
+## 💫 A Little Bit About Me
+
+- 🔭 I'm currently working as a **PHP Backend Developer**
+- 💻 I have **3+ years of experience** in web development
+- ⚙️ My main focus is **backend development and RESTful APIs**
+- 🧱 I enjoy working with databases, caching and backend architecture
+- 🔐 I have experience with **JWT, Refresh Token and Session Authentication**
+- ⏱️ I work with asynchronous processing using **Queue and Cron Jobs**
+- 📡 I have implemented real-time features using **Socket.IO**
+- 🐳 I use **Docker, Git and Linux** in development workflows
+- 🤖 I use **ChatGPT and OpenAI Codex** to support software development
+- 🌱 I'm interested in scalable web platforms, automation and AI-powered applications
+- 📍 Based in **Da Nang, Vietnam**
+
+---
+
+# 💻 Languages and Tools
+
+## Backend Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express" alt="Backend technologies" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Yii1_Framework-40B3D8?style=flat-square&logo=php&logoColor=white" alt="Yii1" />
+  <img src="https://img.shields.io/badge/RESTful_API-005571?style=flat-square" alt="RESTful API" />
+  <img src="https://img.shields.io/badge/JWT_Authentication-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+  <img src="https://img.shields.io/badge/Queue_&_Cron-4B5563?style=flat-square" alt="Queue and Cron" />
+  <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="Socket.IO" />
+</p>
+
+## Frontend Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,vue,js,html,css" alt="Frontend technologies" />
+</p>
+
+## Databases and Caching
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis" alt="Databases" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Query_Optimization-2563EB?style=flat-square" alt="Query Optimization" />
+  <img src="https://img.shields.io/badge/Database_Indexing-7C3AED?style=flat-square" alt="Database Indexing" />
+  <img src="https://img.shields.io/badge/MongoDB_Aggregation-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB Aggregation" />
+  <img src="https://img.shields.io/badge/Redis_Caching-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis Caching" />
+</p>
+
+## DevOps and Development Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,postman,vscode" alt="Development tools" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Basic_CI/CD-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="Basic CI/CD" />
+  <img src="https://img.shields.io/badge/Batch_Script-4D4D4D?style=flat-square&logo=windows-terminal&logoColor=white" alt="Batch Script" />
+  <img src="https://img.shields.io/badge/WinSCP-1E90FF?style=flat-square" alt="WinSCP" />
+  <img src="https://img.shields.io/badge/Tera_Term-374151?style=flat-square" alt="Tera Term" />
+</p>
+
+## Architecture and Coding Practices
+
+<p>
+  <img src="https://img.shields.io/badge/Service_Layer_Architecture-0F766E?style=flat-square" alt="Service Layer Architecture" />
+  <img src="https://img.shields.io/badge/Repository_Pattern-0369A1?style=flat-square" alt="Repository Pattern" />
+  <img src="https://img.shields.io/badge/Dependency_Injection-7C3AED?style=flat-square" alt="Dependency Injection" />
+  <img src="https://img.shields.io/badge/SOLID_Principles-B45309?style=flat-square" alt="SOLID Principles" />
+  <img src="https://img.shields.io/badge/Clean_Code-15803D?style=flat-square" alt="Clean Code" />
 </p>
 
 ---
 
-## 📫 Contact Me
+# 📊 GitHub Statistics
 
-- GitHub: [anhduongdev](https://github.com/anhduongdev)
-- LinkedIn: [Thêm đường dẫn LinkedIn của bạn](https://www.linkedin.com/)
-- Email: `your-email@example.com`
+<div align="center">
+  <img
+    height="175"
+    src="https://github-readme-stats.vercel.app/api?username=anhduongdev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+    alt="GitHub statistics"
+  />
+
+  <img
+    height="175"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=anhduongdev&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+    alt="Most used languages"
+  />
+</div>
+
+<br />
+
+<div align="center">
+  <img
+    width="700"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=anhduongdev&theme=tokyonight&hide_border=true"
+    alt="GitHub contribution streak"
+  />
+</div>
+
+<br />
+
+<div align="center">
+  <img
+    width="700"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anhduongdev&theme=tokyonight"
+    alt="GitHub profile summary"
+  />
+</div>
+
+---
+
+<h2 align="center">📫 Where to Find Me</h2>
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-anhduongdev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anhduongdev)
+[![Gmail](https://img.shields.io/badge/Gmail-trananh123duong-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:trananh123duong@gmail.com)
+
+</div>
+
+<br />
+
+<div align="center">
+  <img
+    src="https://visitcount.itsvg.in/api?id=anhduongdev&icon=5&color=6"
+    alt="Profile visitor count"
+  />
+</div>
+
+<div align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:172554,100:0f766e&height=120&section=footer"
+    width="100%"
+    alt="Footer"
+  />
+</div>
